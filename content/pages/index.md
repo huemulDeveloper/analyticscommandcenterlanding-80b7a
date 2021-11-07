@@ -64,7 +64,7 @@ sections:
   - section_id: features-two-col
     type: section_grid
     title: Otras Características
-    subtitle: An optional subtitle of the section
+    subtitle: Optimizaciones que disminuyen las manualidades y errores en los procesos.
     col_number: two
     grid_items:
       - title: Notificaciones
