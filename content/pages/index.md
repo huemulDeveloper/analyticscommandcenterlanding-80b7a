@@ -115,7 +115,7 @@ seo:
         Avanzada
       keyName: property
     - name: 'og:image'
-      value: /images/huemul_01_30_30-8eeac8ae.png
+      value: /images/huemul_01_200_200-d131e8c0.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
