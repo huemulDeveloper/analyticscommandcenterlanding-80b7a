@@ -36,7 +36,7 @@ sections:
       - title: Optimización y Control
         content: >
           Trazabilidad de los archivos y rutas usadas por los procesos de datos
-          y analítica en un solo lugar, independiente del orquestador utilizado
+          y analítica, en un solo lugar, independiente del orquestador utilizado
         actions:
           - label: Learn More
             url: /style-guide
