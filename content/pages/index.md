@@ -110,7 +110,9 @@ seo:
       value: Analytics Command Center by Huemul Solutions
       keyName: property
     - name: 'og:description'
-      value: The preview of the Libris theme
+      value: >-
+        Plataforma Cloud para la Observabilidad de procesos de Analítica
+        Avanzada
       keyName: property
     - name: 'og:image'
       value: /images/huemul_01_200_200.png
