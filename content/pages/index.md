@@ -84,7 +84,7 @@ sections:
           procesos, tú elijes si cada proceso puede ejecutarse varias veces en
           paralelo, o evitar que se ejecute nuevamente con los mismos
           parámetros. Evita errores operacionales configurando centralizadamente
-          el comportamiento.
+          su comportamiento.
         actions:
           - label: Learn More
             url: /showcase
