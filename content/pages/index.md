@@ -16,7 +16,7 @@ sections:
     type: section_grid
     col_number: three
     grid_items:
-      - title: Datos
+      - title: Procesos de Datos
         content: >
           Gestión detallada de los procesos de ingestas de datos, tanto usuarios
           técnicos como de negocio pueden conocer en qué estado se encuentran la
