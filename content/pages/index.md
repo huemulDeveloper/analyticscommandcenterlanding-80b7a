@@ -41,10 +41,7 @@ sections:
     content: >
       Observabilidad del proceso de datos end to end, de forma sencilla y
       amigable para todo tipo de usuarios.
-    actions:
-      - label: Get Started
-        url: /docs/getting-started
-        style: secondary
+    actions: []
   - section_id: text-no-img
     type: section_content
     title: Gobierno de Datos desde los Procesos
