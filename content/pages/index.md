@@ -70,10 +70,10 @@ sections:
     col_number: two
     grid_items:
       - title: Notificaciones
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla tortor at, pulvinar orci.
+        content: >
+          Puedes configurar el envío de notificaciones vía API a otras
+          aplicaciones, así evitas manualidades que solo generan
+          desactualización de información.
         actions:
           - label: Learn More
             url: /overview
