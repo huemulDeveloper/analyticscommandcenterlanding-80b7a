@@ -6,8 +6,8 @@ sections:
     title: Analytics Command Center
     image: images/5.jpg
     content: >
-      Plataforma Cloud que te permite monitorear y controlar los procesos de
-      datos, analítica e Inteligencia Artificial.
+      Plataforma Cloud que te permite monitorear, controlar y optimizar los
+      procesos de Datos, Analítica Avanzada e Inteligencia Artificial.
     actions: []
   - section_id: features
     type: section_grid
