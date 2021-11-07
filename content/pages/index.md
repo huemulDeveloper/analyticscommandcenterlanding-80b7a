@@ -5,9 +5,9 @@ sections:
     type: section_hero
     title: Analytics Command Center
     image: images/5.jpg
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: >
+      Plataforma Cloud que permite monitorear, controlar y optimizar los
+      procesos de datos, analítica e Inteligencia Artificial
     actions:
       - label: Get Started
         url: /docs
