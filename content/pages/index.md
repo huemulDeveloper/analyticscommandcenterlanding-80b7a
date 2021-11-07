@@ -26,9 +26,9 @@ sections:
             url: /docs
             style: link
       - title: Analítica
-        content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+        content: >
+          Controla las ejecuciones de los modelos analíticos, cuando fueron
+          ejecutados y el seguimiento de los resultados obtenidos...
         actions:
           - label: View Posts
             url: /blog
