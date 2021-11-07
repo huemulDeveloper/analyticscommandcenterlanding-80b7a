@@ -45,7 +45,7 @@ sections:
     type: section_content
     image: images/jamstack.svg
     image_position: left
-    title: Salud de los Procesos Lanzados.
+    title: Estado de los Procesos Lanzados.
     content: >
       Observabilidad del proceso de datos end to end, de forma sencilla y
       amigable para todo tipo de usuarios.
