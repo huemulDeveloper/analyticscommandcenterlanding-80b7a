@@ -79,10 +79,12 @@ sections:
             url: /overview
             style: link
       - title: Ciclo de Vida del Proceso
-        content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus. Vivamus rhoncus mattis varius.
+        content: >
+          Analytics Command Center permite controlar el ciclo de vida de los
+          procesos, tú elijes si cada proceso puede ejecutarse varias veces en
+          paralelo, o evitar que se ejecute nuevamente con los mismos
+          parámetros. Evita errores operacionales configurando centralizadamente
+          el comportamiento.
         actions:
           - label: Learn More
             url: /showcase
