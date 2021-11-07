@@ -17,10 +17,10 @@ sections:
     col_number: three
     grid_items:
       - title: Datos
-        content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus. Vivamus rhoncus mattis varius.
+        content: >
+          Gestión detallada de los procesos de ingestas de datos, tanto usuarios
+          técnicos como de negocio pueden conocer en qué estado se encuentran la
+          ejecución de los procesos, con notificaciones automáticas.
         actions:
           - label: Get Started
             url: /docs
