@@ -60,10 +60,7 @@ sections:
       integrarnos vía API a ellas para enviar automáticamente los nuevos
       activos, con ello puedes disminuir las tareas manuales de los encargados
       de los activos de datos.
-    actions:
-      - label: Get Started
-        url: /docs/getting-started/installation
-        style: primary
+    actions: []
   - section_id: features-two-col
     type: section_grid
     title: Otras Características
