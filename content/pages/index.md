@@ -119,7 +119,7 @@ seo:
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
-      value: summary_large_image
+      value: summary_small_image
     - name: 'twitter:title'
       value: Analytics Command Center by Huemul Solutions
     - name: 'twitter:description'
