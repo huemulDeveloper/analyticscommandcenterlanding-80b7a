@@ -3,7 +3,7 @@
     "path_prefix": "/",
     "palette": "blue",
     "header": {
-        "title": "Libris",
+        "title": "HuemulSolutions",
         "logo_img": "/images/huemul_01_300_300.png",
         "logo_img_alt": "Libris logo",
         "has_nav": true,
