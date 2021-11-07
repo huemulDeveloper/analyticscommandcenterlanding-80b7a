@@ -94,7 +94,7 @@ sections:
   - section_id: cta
     type: section_cta
     title: ¿Quieres probarlo?
-    subtitle: This is an optional description for the call to action block.
+    subtitle: 'Hablemos!, contáctanos para agendar una reunión.'
     actions:
       - label: Get Started
         url: /docs/getting-started/installation
