@@ -27,7 +27,7 @@
                 "has_subnav": false
             },
             {
-                "label": "lorem-ipsum",
+                "label": "Login",
                 "url": "#",
                 "style": "link",
                 "icon_class": "dev",
