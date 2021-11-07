@@ -107,7 +107,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Libris Theme
+      value: Analytics Command Center by Huemul Solutions
       keyName: property
     - name: 'og:description'
       value: The preview of the Libris theme
