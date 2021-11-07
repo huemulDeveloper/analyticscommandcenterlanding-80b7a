@@ -16,7 +16,7 @@
             },
             {
                 "label": "Login",
-                "url": "app.analytics-command-center.com",
+                "url": "https://www.app.analytics-command-center.com",
                 "style": "link",
                 "icon_class": "dev",
                 "new_window": true,
