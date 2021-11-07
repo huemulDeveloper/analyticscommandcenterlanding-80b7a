@@ -8,10 +8,7 @@ sections:
     content: >
       Plataforma Cloud que te permite monitorear y controlar los procesos de
       datos, analítica e Inteligencia Artificial.
-    actions:
-      - label: Get Started
-        url: /docs
-        style: primary
+    actions: []
   - section_id: features
     type: section_grid
     col_number: three
