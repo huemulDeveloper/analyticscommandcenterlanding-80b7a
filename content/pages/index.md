@@ -29,10 +29,7 @@ sections:
         content: >
           Controla las ejecuciones de los modelos analíticos, cuando fueron
           ejecutados y el seguimiento de los resultados obtenidos...
-        actions:
-          - label: View Posts
-            url: /blog
-            style: link
+        actions: []
       - title: Optimización y Control
         content: >
           Trazabilidad de los archivos y rutas usadas por los procesos de datos
