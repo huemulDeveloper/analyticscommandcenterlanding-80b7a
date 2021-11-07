@@ -46,10 +46,9 @@ sections:
     image: images/jamstack.svg
     image_position: left
     title: Salud de los Procesos Lanzados.
-    content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
+    content: >
+      Observabilidad del proceso de datos end to end, de forma sencilla y
+      amigable para todo tipo de usuarios.
     actions:
       - label: View Demo
         url: /docs/getting-started
