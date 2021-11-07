@@ -82,10 +82,7 @@ sections:
           paralelo, o evitar que se ejecute nuevamente con los mismos
           parámetros. Evita errores operacionales configurando centralizadamente
           su comportamiento.
-        actions:
-          - label: Learn More
-            url: /showcase
-            style: link
+        actions: []
   - section_id: cta
     type: section_cta
     title: ¿Quieres probarlo?
