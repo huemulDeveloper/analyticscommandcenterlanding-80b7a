@@ -34,10 +34,9 @@ sections:
             url: /blog
             style: link
       - title: Optimización y Control
-        content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus. Vivamus rhoncus mattis varius.
+        content: >
+          Trazabilidad de los archivos y rutas usadas por los procesos de datos
+          y analítica en un solo lugar, independiente del orquestador utilizado
         actions:
           - label: Learn More
             url: /style-guide
