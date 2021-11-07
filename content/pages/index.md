@@ -42,9 +42,6 @@ sections:
       Observabilidad del proceso de datos end to end, de forma sencilla y
       amigable para todo tipo de usuarios.
     actions:
-      - label: View Demo
-        url: /docs/getting-started
-        style: primary
       - label: Get Started
         url: /docs/getting-started
         style: secondary
