@@ -25,7 +25,7 @@ sections:
           - label: Get Started
             url: /docs
             style: link
-      - title: Analítica
+      - title: Analítica Avanzada
         content: >
           Controla las ejecuciones de los modelos analíticos, cuando fueron
           ejecutados y el seguimiento de los resultados obtenidos...
