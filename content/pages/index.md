@@ -85,10 +85,7 @@ sections:
     type: section_cta
     title: ¿Quieres probarlo?
     subtitle: 'Hablemos!, escríbenos a help@huemulsolutions.com para agendar una reunión.'
-    actions:
-      - label: Get Started
-        url: /docs/getting-started/installation
-        style: primary
+    actions: []
 seo:
   title: Analytics Command Center by Huemul Solutions
   description: Plataforma Cloud para la Observabilidad de procesos de Analítica Avanzada
