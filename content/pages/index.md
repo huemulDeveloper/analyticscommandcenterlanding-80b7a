@@ -65,7 +65,7 @@ sections:
         style: primary
   - section_id: features-two-col
     type: section_grid
-    title: Sample Layouts
+    title: Otras Características
     subtitle: An optional subtitle of the section
     col_number: two
     grid_items:
