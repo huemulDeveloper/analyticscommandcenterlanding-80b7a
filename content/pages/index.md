@@ -48,10 +48,17 @@ sections:
   - section_id: text-no-img
     type: section_content
     title: Gobierno de Datos desde los Procesos
-    content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
+    content: >
+      Analytics Command Center permite gestionar los activos de datos a partir
+      de los procesos que los generan, es decir, ingestas de datos, modelos de
+      analítica avanzada y de Inteligencia Artificial, por tanto, toda la
+      metadata es capturada real-time, en el momento en que se ejecutan los
+      procesos.
+
+
+      ¿Ya tienes una herramienta de Gobierno de Datos?, perfecto!, nos podemos
+      integrar via API a ellas para disminuir el llenado manual que
+      habitualmente se requiere.
     actions:
       - label: Get Started
         url: /docs/getting-started/installation
