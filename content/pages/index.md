@@ -113,7 +113,7 @@ seo:
       value: The preview of the Libris theme
       keyName: property
     - name: 'og:image'
-      value: images/4.jpg
+      value: /images/huemul_01_300_300-38a7d33e.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
