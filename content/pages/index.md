@@ -21,10 +21,7 @@ sections:
           Gestión detallada de los procesos de ingestas de datos, tanto usuarios
           técnicos como de negocio pueden conocer en qué estado se encuentran la
           ejecución de los procesos, con notificaciones automáticas.
-        actions:
-          - label: Get Started
-            url: /docs
-            style: link
+        actions: []
       - title: Analítica Avanzada
         content: >
           Controla las ejecuciones de los modelos analíticos, cuando fueron
