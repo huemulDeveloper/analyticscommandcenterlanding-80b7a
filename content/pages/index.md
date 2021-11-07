@@ -56,9 +56,10 @@ sections:
       procesos.
 
 
-      ¿Ya tienes una herramienta de Gobierno de Datos?, perfecto!, nos podemos
-      integrar via API a ellas para disminuir el llenado manual que
-      habitualmente se requiere.
+      ¿Ya tienes una herramienta de Gobierno de Datos?, perfecto!, podemos
+      integrarnos vía API a ellas para enviar automáticamente los nuevos
+      activos, con ello puedes disminuir las tareas manuales de los encargados
+      de los activos de datos.
     actions:
       - label: Get Started
         url: /docs/getting-started/installation
