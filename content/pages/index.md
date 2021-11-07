@@ -101,7 +101,7 @@ sections:
         style: primary
 seo:
   title: Analytics Command Center by Huemul Solutions
-  description: The preview of the Libris theme
+  description: Plataforma Cloud para la Observabilidad de procesos de Analítica Avanzada
   extra:
     - name: 'og:type'
       value: website
