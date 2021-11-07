@@ -123,7 +123,9 @@ seo:
     - name: 'twitter:title'
       value: Analytics Command Center by Huemul Solutions
     - name: 'twitter:description'
-      value: The preview of the Libris theme
+      value: >-
+        Plataforma Cloud para la Observabilidad de procesos de Analítica
+        Avanzada
     - name: 'twitter:image'
       value: /images/huemul_01_200_200-0019de7f.png
       relativeUrl: true
