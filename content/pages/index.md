@@ -74,10 +74,7 @@ sections:
           Puedes configurar el envío de notificaciones vía API a otras
           aplicaciones, así evitas manualidades que solo generan
           desactualización de información.
-        actions:
-          - label: Learn More
-            url: /overview
-            style: link
+        actions: []
       - title: Ciclo de Vida del Proceso
         content: >
           Analytics Command Center permite controlar el ciclo de vida de los
