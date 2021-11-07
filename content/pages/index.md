@@ -125,7 +125,7 @@ seo:
     - name: 'twitter:description'
       value: The preview of the Libris theme
     - name: 'twitter:image'
-      value: images/4.jpg
+      value: /images/huemul_01_200_200-0019de7f.png
       relativeUrl: true
 layout: advanced
 ---
