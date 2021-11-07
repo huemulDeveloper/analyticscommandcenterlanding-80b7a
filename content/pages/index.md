@@ -47,7 +47,7 @@ sections:
         style: secondary
   - section_id: text-no-img
     type: section_content
-    title: A Section Without Image
+    title: Gobierno de Datos desde los Procesos
     content: >-
       Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
       cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
