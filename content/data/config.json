@@ -55,5 +55,6 @@
             }
         ]
     },
-    "domain": "https://analyticscommandcenterlanding-80b7a.netlify.app"
+    "domain": "https://analyticscommandcenterlanding-80b7a.netlify.app",
+    "favicon": "/images/huemul_01_30_30.png"
 }
