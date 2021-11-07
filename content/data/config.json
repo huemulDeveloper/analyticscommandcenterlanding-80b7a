@@ -3,7 +3,7 @@
     "path_prefix": "/",
     "palette": "blue",
     "header": {
-        "title": "HuemulSolutions",
+        "title": "Analytics Command Center by Huemul Solutions",
         "logo_img": "/images/huemul_01_300_300.png",
         "logo_img_alt": "Analytics Command Center by Huemul Solutions",
         "has_nav": true,
